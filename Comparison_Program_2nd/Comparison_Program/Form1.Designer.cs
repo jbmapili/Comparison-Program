@@ -395,9 +395,10 @@
             this.Controls.Add(this.dataFile2);
             this.Controls.Add(this.dataFile1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "File Comparison Program";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataFile1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataFile2)).EndInit();
