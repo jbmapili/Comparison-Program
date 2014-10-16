@@ -1,0 +1,18 @@
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\bin\Debug\Comparison_Program.exe.config
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\bin\Debug\Comparison_Program.exe
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\bin\Debug\Comparison_Program.pdb
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\obj\Debug\Comparison_Program.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\obj\Debug\Comparison_Program.Form1.resources
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\obj\Debug\Comparison_Program.Properties.Resources.resources
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\obj\Debug\Comparison_Program.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\obj\Debug\Comparison_Program.exe
+C:\Users\pc\Desktop\Currently Creating\Comparison_Program\Comparison_Program\obj\Debug\Comparison_Program.pdb
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\bin\Debug\Comparison_Program.exe.config
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\obj\Debug\Comparison_Program.exe
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\obj\Debug\Comparison_Program.pdb
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\bin\Debug\Comparison_Program.exe
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\bin\Debug\Comparison_Program.pdb
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\obj\Debug\Comparison_Program.csprojResolveAssemblyReference.cache
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\obj\Debug\Comparison_Program.Form1.resources
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\obj\Debug\Comparison_Program.Properties.Resources.resources
+Z:\MemberFolders\JB\Programs\Comparison_Program_2nd\Comparison_Program\obj\Debug\Comparison_Program.csproj.GenerateResource.Cache
